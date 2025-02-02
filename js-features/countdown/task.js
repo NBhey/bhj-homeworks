@@ -13,4 +13,4 @@ let interval = setInterval(() => {
     // link.click();
     // document.body.removeChild(link);
   }
-}, 100);
+}, 1000);
